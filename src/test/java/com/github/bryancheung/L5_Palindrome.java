@@ -2,10 +2,9 @@ package com.github.bryancheung;
 
 import org.junit.jupiter.api.Test;
 
-import java.util.ArrayList;
 import java.util.BitSet;
 
-public class L5 {
+public class L5_Palindrome {
 
     @Test
     public void testAlgo() {

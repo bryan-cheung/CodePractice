@@ -2,10 +2,9 @@ package com.github.bryancheung;
 
 import org.junit.jupiter.api.Test;
 
-import java.util.Arrays;
 import java.util.BitSet;
 
-public class L3 {
+public class L3_bitsetToGetSameChar {
 
     @Test
     public void testAlgo() {
